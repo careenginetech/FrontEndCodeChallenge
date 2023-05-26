@@ -7,7 +7,7 @@ In this challenge we’ll focus on your Frontend and problem solving skills. Her
 
 
 ## How to get started
-Head to this [codesandbox.io](https://codesandbox.io/s/frontend-engineering-assignment-forked-xqe53u) repository, fork it and start working on your solutions. We estimate that the challenge shouldn't take more than 2 hours and we are expecting to see the results within the next 7 days
+Head to this [codesandbox.io](https://codesandbox.io/s/frontend-engineering-assignment-forked-xqe53u) repository, fork it and start working on your solutions. We estimate that the challenge shouldn't take more than 2 hours and we are expecting to see the results within the next 3 days
 
 
 ## What we’ll be looking for:
